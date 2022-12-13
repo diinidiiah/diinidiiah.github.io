@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Merriweather:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro&family=Libre+Baskerville:wght@700&family=Merriweather:wght@300&display=swap');
+
+.cynn  {
+    font-family: 'Merriweather', serif;
+    font-style: Bold;
+    font-size: 64px;
+    line-height: 76px;
+    line-height: 100%;
+    vertical-align: Top;
+    letter-spacing: 15%;
+}
+
+.right-nav-custom {
+    /* padding: 5px; */
+    padding-right: 15px;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.nav-2nd {
+    font-family: 'Libre Baskerville', serif;
+}
+
+.box-3otm {
+    background: rgba(0, 0, 0, 0.9);
+    opacity: 0.9;
+    width: 400px;
+    padding: 20px;
+  
+    /* margin: 40px; */
+    margin-left: 100px;
+    margin-top: 25px;
+    color: white;
+    font-family: 'Andada Pro', serif;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+    letter-spacing: 0.3em;
+}
+.f-3otm {
+    font-family: 'Libre Baskerville', serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 50px;
+    line-height: 77px;
+    text-align: center;
+    letter-spacing: 0.3em;
+}
+.test-img {
+    
+    width: 1440px;
+    height: 539px;
+    left: 0px;
+    top: 347px;
+
+}
